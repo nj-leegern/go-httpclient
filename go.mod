@@ -1,4 +1,4 @@
-module go-httpclient
+module gohttpclient
 
 go 1.12
 
